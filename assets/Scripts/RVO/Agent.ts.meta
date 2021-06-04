@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "99d7f5fd-fae6-4106-ba7a-93c1e298d001",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Scripts/GameCore/RVO2/Agent.js",
+    "simulateGlobals": []
+  }
+}

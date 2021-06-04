@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			".circleci": true,
+			".github": true,
+			".vscode": true,
+			"@types": true,
+			"bin": true,
+			"build": true,
+			"settings": true,
+			"profiles": true
+		}
+	}
+}

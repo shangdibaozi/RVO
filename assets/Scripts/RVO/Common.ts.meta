@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "b21abffd-42c6-4d43-bbe0-0edd2fb59f53",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Scripts/GameCore/RVO2/Common.js",
+    "simulateGlobals": []
+  }
+}

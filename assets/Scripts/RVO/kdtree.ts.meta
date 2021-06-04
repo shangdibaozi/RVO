@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "a7ee4e36-baac-4720-ba0f-7f779a7fd328",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Scripts/GameCore/RVO2/kdtree.js",
+    "simulateGlobals": []
+  }
+}
